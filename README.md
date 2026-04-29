@@ -1,4 +1,4 @@
-<h1>-@INFO-</h1>
+<h1>-@iARM v1.1</h1>
 
 Hello, welcome to the iARM64 project! This project started as a way to look productive while i studied in my University's Computer Science Centre, as there
 was nobody to tutor. It was originally just your standard notes taking app and not OS specific or anything.
