@@ -11,7 +11,7 @@ So, then came the switch to ARM64 Assembly for MacOS, as you dont see as many of
 In this case, i'd rather this than using VScode with a plugin or something. It makes a lot more sense.
 Also, feel free to steal the code, make a new branch. Its completely open source. I just wanted to write some basic assembly.
 
-This will be updated pretty consistently i hope with more features, such as file management!
+This will be updated pretty consistently i hope with more features!
 
 Features:
 
@@ -33,9 +33,22 @@ All you have to do is download this repo and run the program, save the Assembly 
 There you go, there it is
 
 <h1>-@UPDATES-</h1>
-Future Update log: 
--File selection (Currently working on)
--Error logs (Partly added)
+Update log: 
+VERSION 1.1:
++added Create New file option, fully working
++refactored unoptimal code (specifically i messed around with SDL2)
++Added popup when creating new file, allowing you to rename, preventing files from being overwritten (This editor is now functional)
++New pill shaped buttons
++There is code for a drag and drop of already working files - this is a leftover of an idea i am not smart enough to implement yet.
++slightly newer updated look using SDL2
++Window resizing is added
++errors in the console now show
+-removed old button rendering
+
+
+
+
+
 
 
 
